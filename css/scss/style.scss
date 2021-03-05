@@ -1,0 +1,12 @@
+// Gerais
+
+@import 'reset';
+@import 'grid';
+@import 'variaveis-e-mixins.scss';
+@import 'geral.scss';
+
+// Partes
+@import 'intro';
+@import 'menu';
+@import 'contato';
+@import 'footer';
